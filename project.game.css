@@ -1,0 +1,28 @@
+#top
+{
+    background-color: rgba(43,30,27);
+    width: 100%;
+    margin-bottom: 5cm;
+    z-index: -1;
+}
+
+img
+{
+    left: auto;
+    z-index: 0;
+}
+
+body
+{
+    font-family: papyrus;
+    z-index: -2;
+}
+
+#container
+{
+    background-color: white;
+    height: 30%;
+    border-top: 2cm;
+    border-bottom: 2cm;
+    z-index: 1;
+}
